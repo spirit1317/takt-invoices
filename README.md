@@ -8,4 +8,4 @@ Do uruchomienia wymagane są:
 - ast
 - smtplib
 
-Oraz dokument 10.19_niepolomice.xls, zawierający listę obecności.
+Oraz dokument **10.19_niepolomice.xls**, zawierający listę obecności.
