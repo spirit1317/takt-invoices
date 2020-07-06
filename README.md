@@ -1,4 +1,4 @@
-#Rachunki TAKT
+# Rachunki TAKT
 
 Dwa skrypty, będące częścią programu obsługującego tworzenie i wysyłanie rachunków dla szkoły tańca.
 
